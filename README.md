@@ -38,8 +38,6 @@ https://www.canva.com/design/DAGdyNSPUZ0/opYwDrqSeFofgaHH9ceG2w/edit?utm_content
 
 # Game Child
 
-Aşağıda projeye ait ekran görüntülerini bulabilirsiniz:
-
 ![Screenshot 001054](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001054.png?raw=true)
 ![Screenshot 001106](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001106.png?raw=true)
 ![Screenshot 001113](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001113.png?raw=true)
