@@ -36,19 +36,25 @@ https://www.canva.com/design/DAGdyNSPUZ0/opYwDrqSeFofgaHH9ceG2w/edit?utm_content
 ## Uygulamanın Figma Tasarımı 
 ![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20003247.png)
 
-## Uygulama
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001054.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001106.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001113.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001123.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001130.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001139.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001149.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001206.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001220.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001235.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001247.png)
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20001301.png)
+# Game Child
+
+Aşağıda projeye ait ekran görüntülerini bulabilirsiniz:
+
+![Screenshot 001054](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001054.png?raw=true)
+![Screenshot 001106](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001106.png?raw=true)
+![Screenshot 001113](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001113.png?raw=true)
+![Screenshot 001123](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001123.png?raw=true)
+![Screenshot 001130](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001130.png?raw=true)
+![Screenshot 001139](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001139.png?raw=true)
+![Screenshot 001149](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001149.png?raw=true)
+![Screenshot 001206](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001206.png?raw=true)
+![Screenshot 001220](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001220.png?raw=true)
+![Screenshot 001235](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001235.png?raw=true)
+![Screenshot 001247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001247.png?raw=true)
+![Screenshot 001301](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001301.png?raw=true)
+![Screenshot 001321](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001321.png?raw=true)
+![Screenshot 003247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20003247.png?raw=true)
+
 
 
 
