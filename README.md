@@ -1,5 +1,4 @@
 
-<h1> Hi-Kod 5 Mobil Uygulama Geliştirme Atölyesi </h1>
 <h1> Çocukhane Mobil Uygulaması </h1>
 <h2> Uygulama Amacı </h2>
 <pre>
