@@ -29,6 +29,8 @@ Aileler ve ebeveynler
 <h2>Emeği Geçenler</h2>
 <p>Abdullah TANRIVERDİ</p>
 <p>Faik DÖNER</p>
+
+
 ## Uygulama Sunum
 https://www.canva.com/design/DAGdyNSPUZ0/opYwDrqSeFofgaHH9ceG2w/edit?utm_content=DAGdyNSPUZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
