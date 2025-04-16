@@ -34,7 +34,7 @@ Aileler ve ebeveynler
 https://www.canva.com/design/DAGdyNSPUZ0/opYwDrqSeFofgaHH9ceG2w/edit?utm_content=DAGdyNSPUZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Uygulamanın Figma Tasarımı 
-![image](https://github.com/DeryaTelli/hicodechildrights/blob/main/assets/screenshot/Screenshot%202025-02-01%20003247.png)
+![Screenshot 003247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20003247.png?raw=true)
 
 # Game Child
 
@@ -53,7 +53,7 @@ Aşağıda projeye ait ekran görüntülerini bulabilirsiniz:
 ![Screenshot 001247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001247.png?raw=true)
 ![Screenshot 001301](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001301.png?raw=true)
 ![Screenshot 001321](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20001321.png?raw=true)
-![Screenshot 003247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20003247.png?raw=true)
+
 
 
 
