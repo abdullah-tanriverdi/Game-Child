@@ -33,6 +33,12 @@ Aileler ve ebeveynler
 ## Uygulama Sunum
 https://www.canva.com/design/DAGdyNSPUZ0/opYwDrqSeFofgaHH9ceG2w/edit?utm_content=DAGdyNSPUZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Uygulama Videosu
+Thumbnail görseliin üzerine basarak videoya erişebilirsiniz.
+[![YouTube Video](https://img.youtube.com/vi/3ZN4j1icjyo/0.jpg)](https://youtu.be/3ZN4j1icjyo)
+
+
+
 ## Uygulamanın Figma Tasarımı 
 ![Screenshot 003247](https://github.com/abdullah-tanriverdi/Game-Child/blob/master/Screenshot%202025-02-01%20003247.png?raw=true)
 
